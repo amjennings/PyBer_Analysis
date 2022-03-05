@@ -1,8 +1,9 @@
 # PyBer_Analysis
-Overview of the Analysis
+
+## Overview of the Analysis
 ###### The purpose of this project was to analyze ride-share data for PyBar by city type (i.e., urban, suburban, rural). The data analyzed included the type of city, number of rides, number of drivers, the date, the fare, and the ride ID. Using these data a graph was created depicting the weekly fares for each city type. 
 
-**Results**
+## **Results**
 
 ###### Comparing the fare data by city type shows the average fare for drivers is lowest in urban cities and highest in rural cities. Urban cities have the most drivers and generate the greatest total fares.
 
@@ -15,5 +16,5 @@ Overview of the Analysis
 *Total Weekly Fare by City Type*
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/98051208/156859132-06353fc9-4c21-4e49-8479-5bae3152d241.png)
 
-**Symmary**
+## **Summary**
 ###### Based on the results there are three business recommendations that could be made. 1. An incentive program may be helpful to encourage drivers in urban and suburban cities to drive in rural cities, either only part time or full time. It would be helpful to distribute drivers more evenly across city types. 2. Relatedly, offering promotions or discounts for riders in rural cities may be useful to increase revenues from this city type. 3. Promotions could also be offered during times when there is an increase in rural city rides. For example, the third week of March and the first week of April both show increases in rural city rides. If prompotions were offered for these riders at the same time, a greater increase may occur.
