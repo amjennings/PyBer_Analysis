@@ -14,6 +14,7 @@
 ###### When reviewing the fares by city type on a weekly basis, there are some weeks that show a decrease for one city type and an increase in another city type, suggesting people may be traveling. This is shown in the second weeks of both March and April, when there is an increase in urban fares and a decrease in suburban and rural fares. Additionally, the fares across city types are slightly greater in the later months. 
 
 *Total Weekly Fare by City Type*
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/98051208/156859132-06353fc9-4c21-4e49-8479-5bae3152d241.png)
 
 ## **Summary**
